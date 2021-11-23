@@ -1,4 +1,4 @@
-console.log("Make the dough");
+//console.log("Make the dough");
 const makePizza = function () {
     console.log("Roll out the dough");
     console.log("Put the toppings on the dough");
